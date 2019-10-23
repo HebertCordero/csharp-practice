@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/bin/Debug/netcoreapp2.1/MultUser.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/bin/Debug/netcoreapp2.1/MultUser.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/bin/Debug/netcoreapp2.1/MultUser.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/bin/Debug/netcoreapp2.1/MultUser.dll
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/bin/Debug/netcoreapp2.1/MultUser.pdb
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/obj/Debug/netcoreapp2.1/MultUser.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/obj/Debug/netcoreapp2.1/MultUser.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/obj/Debug/netcoreapp2.1/MultUser.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/obj/Debug/netcoreapp2.1/MultUser.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/obj/Debug/netcoreapp2.1/MultUser.dll
+/Users/v09/Downloads/C sharp Practice/Practice6/MultUser/obj/Debug/netcoreapp2.1/MultUser.pdb

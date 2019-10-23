@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/v09/Downloads/C sharp Practice/Practice1/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb

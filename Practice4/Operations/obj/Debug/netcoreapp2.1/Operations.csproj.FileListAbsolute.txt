@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/bin/Debug/netcoreapp2.1/Operations.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/bin/Debug/netcoreapp2.1/Operations.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/bin/Debug/netcoreapp2.1/Operations.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/bin/Debug/netcoreapp2.1/Operations.dll
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/bin/Debug/netcoreapp2.1/Operations.pdb
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/obj/Debug/netcoreapp2.1/Operations.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/obj/Debug/netcoreapp2.1/Operations.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/obj/Debug/netcoreapp2.1/Operations.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/obj/Debug/netcoreapp2.1/Operations.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/obj/Debug/netcoreapp2.1/Operations.dll
+/Users/v09/Downloads/C sharp Practice/Practice4/Operations/obj/Debug/netcoreapp2.1/Operations.pdb

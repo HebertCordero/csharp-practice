@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/bin/Debug/netcoreapp2.1/Sum.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/bin/Debug/netcoreapp2.1/Sum.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/bin/Debug/netcoreapp2.1/Sum.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/bin/Debug/netcoreapp2.1/Sum.dll
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/bin/Debug/netcoreapp2.1/Sum.pdb
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/obj/Debug/netcoreapp2.1/Sum.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/obj/Debug/netcoreapp2.1/Sum.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/obj/Debug/netcoreapp2.1/Sum.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/obj/Debug/netcoreapp2.1/Sum.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/obj/Debug/netcoreapp2.1/Sum.dll
+/Users/v09/Downloads/C sharp Practice/Practice2/Sum/obj/Debug/netcoreapp2.1/Sum.pdb

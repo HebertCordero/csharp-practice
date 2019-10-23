@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/bin/Debug/netcoreapp2.1/DivideTwoNumbers.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/bin/Debug/netcoreapp2.1/DivideTwoNumbers.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/bin/Debug/netcoreapp2.1/DivideTwoNumbers.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/bin/Debug/netcoreapp2.1/DivideTwoNumbers.dll
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/bin/Debug/netcoreapp2.1/DivideTwoNumbers.pdb
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/obj/Debug/netcoreapp2.1/DivideTwoNumbers.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/obj/Debug/netcoreapp2.1/DivideTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/obj/Debug/netcoreapp2.1/DivideTwoNumbers.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/obj/Debug/netcoreapp2.1/DivideTwoNumbers.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/obj/Debug/netcoreapp2.1/DivideTwoNumbers.dll
+/Users/v09/Downloads/C sharp Practice/Practice3/DivideTwoNumbers/obj/Debug/netcoreapp2.1/DivideTwoNumbers.pdb
