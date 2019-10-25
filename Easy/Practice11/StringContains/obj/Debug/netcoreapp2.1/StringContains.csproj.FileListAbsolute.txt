@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/bin/Debug/netcoreapp2.1/StringContains.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/bin/Debug/netcoreapp2.1/StringContains.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/bin/Debug/netcoreapp2.1/StringContains.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/bin/Debug/netcoreapp2.1/StringContains.dll
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/bin/Debug/netcoreapp2.1/StringContains.pdb
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/obj/Debug/netcoreapp2.1/StringContains.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/obj/Debug/netcoreapp2.1/StringContains.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/obj/Debug/netcoreapp2.1/StringContains.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/obj/Debug/netcoreapp2.1/StringContains.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/obj/Debug/netcoreapp2.1/StringContains.dll
+/Users/v09/Downloads/C sharp Practice/Practice11/StringContains/obj/Debug/netcoreapp2.1/StringContains.pdb

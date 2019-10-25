@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/bin/Debug/netcoreapp2.1/LessGreater.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/bin/Debug/netcoreapp2.1/LessGreater.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/bin/Debug/netcoreapp2.1/LessGreater.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/bin/Debug/netcoreapp2.1/LessGreater.dll
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/bin/Debug/netcoreapp2.1/LessGreater.pdb
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/obj/Debug/netcoreapp2.1/LessGreater.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/obj/Debug/netcoreapp2.1/LessGreater.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/obj/Debug/netcoreapp2.1/LessGreater.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/obj/Debug/netcoreapp2.1/LessGreater.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/obj/Debug/netcoreapp2.1/LessGreater.dll
+/Users/v09/Downloads/C sharp Practice/Practice9/LessGreater/obj/Debug/netcoreapp2.1/LessGreater.pdb

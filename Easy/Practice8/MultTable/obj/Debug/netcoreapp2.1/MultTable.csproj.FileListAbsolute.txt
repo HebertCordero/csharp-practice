@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/obj/Debug/netcoreapp2.1/MultTable.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/obj/Debug/netcoreapp2.1/MultTable.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/obj/Debug/netcoreapp2.1/MultTable.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/obj/Debug/netcoreapp2.1/MultTable.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/bin/Debug/netcoreapp2.1/MultTable.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/bin/Debug/netcoreapp2.1/MultTable.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/bin/Debug/netcoreapp2.1/MultTable.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/bin/Debug/netcoreapp2.1/MultTable.dll
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/bin/Debug/netcoreapp2.1/MultTable.pdb
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/obj/Debug/netcoreapp2.1/MultTable.dll
+/Users/v09/Downloads/C sharp Practice/Practice8/MultTable/obj/Debug/netcoreapp2.1/MultTable.pdb

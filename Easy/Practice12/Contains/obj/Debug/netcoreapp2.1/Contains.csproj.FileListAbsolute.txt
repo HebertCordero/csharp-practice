@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/obj/Debug/netcoreapp2.1/Contains.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/obj/Debug/netcoreapp2.1/Contains.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/obj/Debug/netcoreapp2.1/Contains.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/obj/Debug/netcoreapp2.1/Contains.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/bin/Debug/netcoreapp2.1/Contains.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/bin/Debug/netcoreapp2.1/Contains.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/bin/Debug/netcoreapp2.1/Contains.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/bin/Debug/netcoreapp2.1/Contains.dll
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/bin/Debug/netcoreapp2.1/Contains.pdb
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/obj/Debug/netcoreapp2.1/Contains.dll
+/Users/v09/Downloads/C sharp Practice/Practice12/Contains/obj/Debug/netcoreapp2.1/Contains.pdb

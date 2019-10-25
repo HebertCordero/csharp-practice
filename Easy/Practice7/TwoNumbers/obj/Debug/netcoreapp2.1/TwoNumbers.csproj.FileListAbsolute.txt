@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/bin/Debug/netcoreapp2.1/TwoNumbers.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/bin/Debug/netcoreapp2.1/TwoNumbers.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/bin/Debug/netcoreapp2.1/TwoNumbers.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/bin/Debug/netcoreapp2.1/TwoNumbers.dll
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/bin/Debug/netcoreapp2.1/TwoNumbers.pdb
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/obj/Debug/netcoreapp2.1/TwoNumbers.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/obj/Debug/netcoreapp2.1/TwoNumbers.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/obj/Debug/netcoreapp2.1/TwoNumbers.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/obj/Debug/netcoreapp2.1/TwoNumbers.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/obj/Debug/netcoreapp2.1/TwoNumbers.dll
+/Users/v09/Downloads/C sharp Practice/Practice7/TwoNumbers/obj/Debug/netcoreapp2.1/TwoNumbers.pdb

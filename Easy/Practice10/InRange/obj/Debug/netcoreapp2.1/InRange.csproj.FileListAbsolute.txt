@@ -1,0 +1,11 @@
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/bin/Debug/netcoreapp2.1/InRange.deps.json
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/bin/Debug/netcoreapp2.1/InRange.runtimeconfig.json
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/bin/Debug/netcoreapp2.1/InRange.runtimeconfig.dev.json
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/bin/Debug/netcoreapp2.1/InRange.dll
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/bin/Debug/netcoreapp2.1/InRange.pdb
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/obj/Debug/netcoreapp2.1/InRange.csprojAssemblyReference.cache
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/obj/Debug/netcoreapp2.1/InRange.csproj.CoreCompileInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/obj/Debug/netcoreapp2.1/InRange.AssemblyInfoInputs.cache
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/obj/Debug/netcoreapp2.1/InRange.AssemblyInfo.cs
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/obj/Debug/netcoreapp2.1/InRange.dll
+/Users/v09/Downloads/C sharp Practice/Practice10/InRange/obj/Debug/netcoreapp2.1/InRange.pdb
